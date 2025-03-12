@@ -48,7 +48,7 @@
 ---
 
 ## 🏆 Achievements  
-- ⭐ Contributed to multiple open-source projects.  
+- ⭐ Contributed to multiple school projects.  
 - 🚀 Developed scalable applications using React, Flutter, and Express.js.  
 - 📚 Passionate about AI & Machine Learning for e-learning platforms.  
 
@@ -57,13 +57,9 @@
 ## 🔗 Connect with Me  
 <p align="center">
   <a href="https://github.com/chanda-dev"><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff"></a>
-  <a href="https://linkedin.com/in/chanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:sokda106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph  
-<p align="center">
-  <img src="https://github.com/chanda-dev/chanda-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+
