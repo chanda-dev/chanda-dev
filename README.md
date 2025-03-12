@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![Flutter](https://img.shields.io/badge/Flutter-282C34?logo=flutter)
 ![Php](https://img.shields.io/badge/Flutter-282C34?logo=php)
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chanda-dev/chanda-dev/blob/output/github-contribution-grid-snake.svg)
 
 
 
